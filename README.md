@@ -6,14 +6,14 @@ make sure your data folder structure is correct:
 
 Tran_data
 - data_[number]
-	-1.bmp
+	- 1.bmp
 	- 2.bmp
 	- ...
 	- ground.bmp #ground truth
 
 Val_data
 - data_[number]
-	-1.bmp
+	- 1.bmp
 	- 2.bmp
 	- ...
 	- ground.bmp #ground truth
